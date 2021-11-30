@@ -1,0 +1,1 @@
+INSERT INTO grupo (nome) VALUE('José Antônio');
